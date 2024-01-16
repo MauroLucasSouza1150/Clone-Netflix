@@ -1,8 +1,13 @@
-# React + Vite
+# Site-Netflix-Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeto da página inicial da Netflix,feito com a tecnologia React.js.
+- Funcionalidade da Mudança de Idioma;
+- Página Responsiva;
 
-Currently, two official plugins are available:
+- Link do Projeto
+https://maurolucassouza1150.github.io/Clone-Netflix/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/MauroLucasSouza1150/Clone-Netflix/assets/91640492/66a19c9b-db5f-4719-9f86-fcfbc755d1ea
+
+
+
